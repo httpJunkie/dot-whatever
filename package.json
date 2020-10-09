@@ -1,0 +1,11 @@
+{
+  "name": "dot-whatever",
+  "version": "1.0.0",
+  "description": "Single repo organized by project for my default configuration files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
